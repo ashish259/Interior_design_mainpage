@@ -93,7 +93,7 @@ This project is presently deployed in **Netlify Service**
 
 ## Note
 
-For this project I took around 3 ` to 4 hours` to complete it. The major portion of my time spent in working on designing the cards with line and dots.
+For this project I took around 3 ` to 4 hours` to complete it.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
